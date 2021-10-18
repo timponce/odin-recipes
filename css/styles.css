@@ -1,0 +1,30 @@
+body {
+    font-family: "Trebuchet MS", sans-serif;
+}
+
+img {
+    height: auto;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#directory {
+    text-align: center;
+    list-style: none;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    background-color: gainsboro;
+}
+
+li {
+    margin-top: 5px;
+}
